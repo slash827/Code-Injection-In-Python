@@ -1,4 +1,4 @@
-# I used the file example_for_meta.py to check my code and the code below works
+# I used the file injected_file.py to check my code and the code below works
 # for all files accept for the part of executing the
 # methods, in which I tested specifically those of my file
 
